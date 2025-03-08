@@ -14,7 +14,7 @@ YouTube API'ını RapidAPI üzerinden kullanarak Türkçe içerik odaklı video 
 ## 🛠️ Kurulum
 1. Repoyu klonlayın:
 ```bash
-git clone [repo-url]
+git clone [https://github.com/omerffae/youtube-clone.git]
 ```
 2. Bağımlılıkları yükleyin:
 ```bash
